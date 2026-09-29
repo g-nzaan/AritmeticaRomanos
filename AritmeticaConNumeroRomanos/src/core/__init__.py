@@ -1,0 +1,1 @@
+"""Operaciones aritméticas independientes de la interfaz."""
